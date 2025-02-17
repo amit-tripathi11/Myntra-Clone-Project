@@ -35,7 +35,7 @@ Myntra-Clone/
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/myntra-clone.git
+   git clone https://github.com/amit-tripathi11/Myntra-Clone-Project.git
    ```
 2. **Open ************`index.html`************ in a browser**
 
