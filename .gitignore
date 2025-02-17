@@ -1,0 +1,10 @@
+:# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
+
+# Ignore VS Code Settings
+.vscode/
